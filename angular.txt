@@ -1,0 +1,23 @@
+npm install -g npm@latest
+
+npm install -g @angular/cli
+
+ng new mon-premier-projet
+
+cd mon-premier-projet
+ng serve --open
+
+localhost4200
+
+
+ng new nom-projet-angular --style=scss --skip-tests=true
+npm install bootstrap@3.3.7 --save
+
+
+npm install -g @angular/cli  
+ng new my-dream-app  
+cd my-dream-app  
+ng serve  
+
+
+https://www.youtube.com/watch?v=Zca69OB2b0U
